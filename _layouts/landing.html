@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    {% include head.html %}
+
+    <body class="bg-dark">
+        <div class="container text-center">
+            <div class="bg-light rounded p-5 m-3">
+                <h1 class="display-4">Welcome to Icenia</h1>
+                <p class="lead">Choose a subject to get started</p>
+            </div>
+        </div>
+
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-sm p-4 m-3">
+                    <a class="text-reset text-decoration-none" href="{{site.baseurl}}/pages/constitution.html">
+                        <div class="bg-light rounded p-3">
+                            <h2 class="display-6">Constitution</h2>
+                            <img src="/assets/images/svg/file-earmark-text.svg" width="64" height="64">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-sm p-4 m-3">
+                    <a class="text-reset text-decoration-none" href="https://discord.gg/Cp547fQCwx" target="_blank">
+                        <div class="bg-light rounded p-3">
+                            <h2 class="display-6">Discord</h2>
+                            <img src="/assets/images/svg/discord.svg" width="64" height="64">
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div> 
+
+        {% include scripts.html %}
+    </body>
+</html>

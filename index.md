@@ -1,5 +1,3 @@
 ---
-layout: default
+layout: landing
 ---
-
-Icenia man good. TODO: This home page
