@@ -11,6 +11,147 @@ description: 'CHRISCHRISPIECHRISCHRISPIECHRISCHRISPIE'
 
 # I. Structure of Government
 
+## I.A The Grand Council
+The Grand Council is the legislative branch of the Icenian government, responsible for overall operation of Icenia and the wellbeing of the nation. These positions are all appointed, due to the nature of the work and need for consistency.
+
+---
+
+### I.A.1 Office of the Presidency
+#### I.A.1.a General Overview of the Position
+The Icenian government shall have a President.  The Office of the Presidency shall be considered the de-facto leader of Icenia. 
+
+#### I.A.1.b Requirements of the Position
+This position is initially awarded to user ChrisChrispie, the founder of Icenia. The President of Icenia may elect to appoint another user to their positon, at which point they become the next President of Icenia.
+
+---
+
+### I.A.2 Office of the Secretary of State
+#### I.A.2.a General Overview of the Position
+The Icenian government shall have a Secretary of State. The Secretary of State is responsible for oversight of the Icenian Government, and responsible for the State Cabinet
+
+#### I.A.2.b Requirements of the Position
+The Secretary of State is appointed by the current President of Icenia.
+
+---
+
+### I.A.3 Secretary of Defense
+#### I.A.3.a General Overview of the Position
+The Icneian Government shall have a Secretary of Defense. The Secretary of Defense is responsible for defensive Infrastructure within Icenia, including but not limited to the Icenian Vault, bunkers, ice roads, and snitch networks. The Secretary of Defense shall also serve as the head of the Iceninan Militia, and become General-At-Arms of the Icenian Military
+
+#### I.A.3.b Requirements of the Position
+The Secretary of Defense is appointed by the current Secretary of State
+
+---
+
+### I.A.4 Director of National Intelligence
+#### I.A.4.a General Overview of the Position
+The Icenian Goverment shall have a Director of National Intelligence. The Director of National Intelligence is primarily repsonsible for developing the Icenian snitch and bastion networks, planning, mapping, and developing Infrastructure in coordination with the Secretary of Defense. The Director of National Intelligence is also responsible for developing pearl audits, alt account lists and related information, as well as maintaining the Icenian Constitution and related documents.
+
+#### I.A.4.b Requirements of the Position
+The Director of National Intelligence is appointed by the current Secretary of State
+
+---
+
+
+### I.A.5 Secretary of Commerce
+#### I.A.5.a General Overview of the Position
+The Icenian Government shall have a Secreatry of Commerce. The Secretary of Commerce is responsible for shops within Icenia, as well as national shops abroad. The Secretry of Economy shall oversee and track exchanges within Icenia, and be responsible for publicizing current shop and trade information.
+
+#### I.A.5.b Requirements of the Position
+The Secretary of Commerce is appointed by the current Secretary of State
+
+---
+
+### I.A.6 Secretary of the Interior
+#### I.A.6.a General Overview of the Position
+The Icenian Government shall have a Secretary of the Interior. The Secretary of the Interior is primarily responsible for greater city planning and zoning, as well as regulating access to Icenian Bastions. The Secretary of the Interior shall also be a point of contact for citizens within Icenia, to bring concerns to the greater government.
+
+#### I.A.6.b Requirements of the Position
+The Secretary of the Interior is appointed by the current Secretary of State
+
+---
+
+#### I.A.7 Secretary of Foreign Affairs
+#### I.A.7.a General Overview of the Position
+The Icenian Government shall have a Secretary of Foreign Affairs. The Secretary of Foreign Affairs is primary responsible for Icenian Foreign relations, as well as constructing and maintaining foreign embassies. The Secretary of Foreign Affairs shall serve as the Chief Ambassador of Icenia, and work on developing alliances and trade partnerships with other nations on the server.
+
+#### I.A.7.b Requirements of the Position
+The Secretary of Foreign Affairs is appointed by the current Secretary of State
+
+---
+
+## I.B The State Council
+
+The State Council is the branch of Icenian government that directly serves the People of Icenia. These positions are elected by the Citizens of Icenia
+
+---
+
+### I.B.1 Judges of Icenia
+#### I.B.1.a General Overview of the Position
+The State Council shall have three democratically elected judges, to sentence criminals in Icenia and be the chief overseers of trials.
+
+One of the Judges of Icenia shall serve as the Grand Judge, to serve as the head of the judicial branch.
+
+#### I.B.1.b Requirements of the Position
+In Order to become a Judge, a candidate must be a full time residential citizen of the Republic of Icenia, and receive a majority vote after votes are tallied from the election. In order to become Grand Judge, one must receive the most amount of votes out of the three candidates elected to the Judge position.
+
+---
+
+### I.B.2 City Manager
+#### I.B.2.a General Overview of the Position
+The State Council shall have a city manager, responsible for dereliction, residency and citizenship requests, and newfriend retention within Icenia.
+
+The City Manager shall work in coordination to develop and implement city and zoning plans with the Secretary of the Interior, and allocate land within these zones.
+
+#### I.B.2.b Requirements of the Position
+In Order to become the City Manager, a candidate must be a full time residential citizen of the Republic of Icenia, and receive a majority vote after votes are tallied from the election.
+
+--- 
+
+### I.B.3 District Attorney
+#### I.B.3.a General Overview of the Position
+The State Council shall have a District Attorney, to be responsible for prosecuting crimes on behalf of the State of Icenia. Additionally, the District Attorney shall be responsible for investigating claims presented in trial proceedings, at the request of the presiding judge.
+
+#### I.B.3.b Requirements of the Position
+In Order to become the District Attorney, a candidate must be a full time residential citizen of the Republic of Icenia, and receive a majority vote after votes are tallied from the election.
+
+---
+
+## I.C Removal from Office
+Government Members can be removed from office by impeachment or forfeiture. Forfeiture affects all government positions while impeachment only affects some.
+
+### I.C.1 Forfeiture of Office
+
+The following circumstances are defined as forfeiting an elected office:
+
+-   Inactivity for more than two weeks without explicit notice to government officials.
+-   Moving permanent residence out of the Republic of Icenia
+-   Being End-Pearled for legitimate crimes.
+-   Turning in a note of resignation.
+
+### I.C.2 Impeachment
+
+All government positions save for the President of Icenia and Secretary of State are subject to impeachment by means of petition for valid and legitimate reasons.
+
+#### I.C.3 Legitimate Cause
+
+Legitimate cause for impeachment falls under these categories:
+
+-   Violation of the Icenian Constitution
+-   Behavior found to be underneath the duties of office.
+
+#### I.C.4 Petition Circulation
+
+Citizens wanting to impeach a candidate shall provide proof of violation to the Grand Judge of Icenia, if the Grand Judge of Icenia is petitioned to be removed from office, then they shall provide proof of violation to the Secretary of State. Proof of Violation constitutes a written statement with at least two signatures with connected proof of misconduct. After this the Grand Judge or Secretary of State will approve the circulation of a petition of impeachment.
+
+#### I.C.5 Impeachment Process
+
+Once in circulation, a petition must receive 50% of the Icenian residential populations signatures to be taken up by the Government of Icenia. The government member in question for impeachment will be offered the opportunity to make a defense for themselves, and the circulators will be heard from as well if this wish. After all sides are heard, a vote will be held. If the majority votes to remove the government member, then that government member will be removed from office effective immediately and fortiture law kicks in.
+
+#### I.C.6 Stipulations on Impeached Officials
+
+Impeached Officials will not be able to run in the upcoming election, however, they will be able to run in any election after that so long as they continue to meet candidacy requirements
+
 ## I.A. Office of the Presidency Established
 
 The Icenian government shall consist of a President, an office which will be held by user ChrisChrispie, the founder of Icenia. This position shall be permanent in existence and shall be awarded to the Founder of Icenia for 60 years. At 60 years this position shall be re-awarded to ChrisChrispie.
@@ -187,7 +328,20 @@ Once in circulation, a petition must receive 50% of the Icenian residential popu
 #### I.D.2.4: Stipulations on Impeached Officials
 Impeached Officials will not be able to run in the upcoming election, however, they will be able to run in any election after that so long as they continue to meet candidacy requirements
 
-# II. Grand Council Process of Legislation
+
+# II. Process of Legislation
+
+The Grand Council shall be the voting body within Icenia in regards to legislation, otherwise known as bills. The process of voting on bills shall start with submission of a bill by one member of the grand council to the #bills channel of the Icenian discord. A “second” (message indicating approval, taking the form of “Seconded” or “Second”) from a member of the Grand Council is needed for the bill to be considered. In the case that a bill does not receive a second within 24 hours, the bill will fail. Once a second is garnered, a period of discussion will begin. During the discussion period, no voting will take place or be otherwise recorded. The discussion period will end after a motion to end discussion is filed by a council member and is similarly seconded. After the discussion period is over, voting shall take place among the members of the Grand Council. The President’s vote is considered equal in this process. If a simple majority vote ‘aye’ then the bill passes, and takes effect immediately after. If the bill does not pass, it is considered dead.
+
+## II.A Emergency/Confidential Declarations and Bills
+
+Bills involving emergency declarations do not have to follow the described process, as they may contain sensitive or time sensitive elements to them. Emergency declarations require a ‘yay’ vote from the President and do not have to have a 24 hour discussion period, and if deemed confidential, may not be posted in any public channel.
+
+## II.B Constitutional Ammendments
+Constitutional amendments must receive a 3/4 in the Grand Council.
+
+## II.C Code of Law Ammendments
+Code of Law ammendments must receive a majority vote in the Grand Council.
 The Grand Council shall be the voting body within Icenia in regards to legislation, otherwise known as bills, put forth by members of the grand council. The process of voting on bills shall start with submission of a bill by one member of the Grand Council to the #Bills channel of the Icenian discord. Bills will then be available for the public to see. For 24 hours a “discussion” period shall be imposed on it. During this discussion period, no votes shall be cast. After the discussion period is over, voting shall take place among the members of the Grand Council. The President’s vote is considered equal in this process. If the majority vote ‘yay’ then the bill passes, and takes effect immediately after. If the bill does not pass, it is considered dead.
 
 ## II.A Emergency/Confidential Declarations and Bills
@@ -223,7 +377,7 @@ In order to vote within the Republic of Icenia, a voter must be a full citizen o
 The Republic of Icenia reserves the right to remove voting rights from any registered citizen who has proven to be in violation of Icenian law or hostile to Icenian interests. Revocation of voting rights shall be done by both the
 Minister of the Interior and President of Icenia. People who have their voting rights taken away may petition to have them restored via a vote between the Judges of Icenia.
 
-# IV: Citizenship
+# IV. Citizenship
 
 ## IV.A Citizenship Application Process
 In order to become a citizen, an applicant must build a house compliant with Icenian building standards, and submit a screenshot of themselves in third person front view, aka a "selfie" of themselves in front of the building in the #citizenship channel in the Icenian discord.
@@ -403,7 +557,7 @@ This chest shall be reinforced under the IcenianPublic group and an inventory of
 
 3) At the end of the 7 day holding period, if the dereliction is uncontested the building and property are transferred to the ownership of the Ministry of the interior, at which point it is at their discretion what to do with the land
 
-# VII: Icenian Bill of Rights
+# VII. Icenian Bill of Rights
 
 ## VII.A Rights of Icenian Citizens
 - To fall under rule of all of the laws and benefits of the Icenian Constitution already mentioned.
@@ -443,7 +597,7 @@ Under no circumstances shall any law be passed in Icenia infringing upon the rig
 ## VII.F Right to Bear Arms
 The right to bear arms in Icenia shall not be infringed upon by any law. No object of which could reasonably be used in the defense of someone's right to life, liberty, and property as defined by the Icenian Constitution shall be banned.
 
-# VIII: Icenian Territory
+# VIII. Icenian Territory
 
 ## VIII.A. Extent of Icenian Territory
 The territory of Icenia, as of the ratification of this constitution, is legally defined as this area from bedrock to sky limit here: (https://imgur.com/a/nug5zDI). Icenian territorial claims extend 200 blocks out into water from the nearest point of Icenian land. Icenia owns the closest half of the river in instances where Icenia’s territory is bordered by a river.
@@ -465,7 +619,7 @@ Icenia recognizes pre-existing rails built under its territory as property of th
 - The Grand Council of Icenia may revoke the governorship of a governor if they undermine Icenia in any way.
 - States may be dissolved if there remains no populus, if they become an issue for Icenia, or request it.
 
-# IX: National Holidays and Remembrances
+# IX. National Holidays and Remembrances
 
 ## IX.A National Holidays
 The following days shall be considered national holidays of importance within the Republic of Icenia.
