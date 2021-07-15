@@ -55,7 +55,7 @@ The Director of National Intelligence is appointed by the current Secretary of S
 
 ### I.A.5 Secretary of Commerce
 #### I.A.5.a General Overview of the Position
-The Icenian Government shall have a Secreatry of Commerce. The Secretary of Commerce is responsible for shops within Icenia, as well as national shops abroad. The Secretry of Economy shall oversee and track exchanges within Icenia, and be responsible for publicizing current shop and trade information.
+The Icenian Government shall have a Secretary of Commerce. The Secretary of Commerce is responsible for shops within Icenia, as well as national shops abroad. The Secretry of Commerce shall oversee and track exchanges within Icenia, and be responsible for publicizing current shop and trade information.
 
 #### I.A.5.b Requirements of the Position
 The Secretary of Commerce is appointed by the current Secretary of State
